@@ -1,4 +1,3 @@
-# digital-watch
 <!DOCTYPE html>
 <html>
 <head>
